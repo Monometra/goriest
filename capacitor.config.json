@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": " Goriest",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
